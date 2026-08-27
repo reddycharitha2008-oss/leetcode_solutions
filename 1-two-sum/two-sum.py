@@ -1,4 +1,4 @@
-class Solution:
+class Solution1:
     def twoSum(self, nums, target):
         num_map = {}  # value -> index
         
